@@ -1,0 +1,13 @@
+[package]
+name = "do_while"
+version = "0.1.0"
+license = "MIT"
+description = "A simple macro allowing clean 'do-while' loops in Rust"
+homepage = "https://github.com/arthomnix/do-while"
+repository = "https://github.com/arthomnix/do-while"
+readme = "README.md"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
